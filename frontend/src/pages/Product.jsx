@@ -18,9 +18,9 @@ const [hasMore, setHasMore] = useState(true)
   const fetchproduct = async () => {
   try {
     // 1. Calculate the next page
-    const nextPage = Math.floor(products.length / 5) + 1;
+    const nextPage = Math.floor(products.length / 6) + 1;
     
-    const { data } = await axios.get(`/products?_per_page=5&_page=${nextPage}`);
+    const { data } = await axios.get(`/products?_per_page=6&_page=${nextPage}`);
 
     // 2. Extract the array from the new JSON Server response format
     const incomingData = data.data;

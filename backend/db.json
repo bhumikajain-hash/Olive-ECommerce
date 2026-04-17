@@ -21,18 +21,6 @@
       "isAdmin": false
     },
     {
-      "id": "atZpz5_Pe7aUx1WUplk-a",
-      "firstname": "Aditya",
-      "middlename": "Raj",
-      "lastname": "Sinha",
-      "username": "adityaraj50",
-      "email": "adityarajsinha50@gmail.com",
-      "password": "987654321a",
-      "isAdmin": false,
-      "number": "7320080098",
-      "url": "https://i.mscwlns.co/media/misc/widget_pages/home/Hair-Hero%20%281%29_j0i2b9.png?tr=w-300,c-at_max"
-    },
-    {
       "id": "YsycJnhoFuL5h7H0Dth0W",
       "firstname": "Om Skand",
       "middlename": "Mani",
@@ -161,6 +149,31 @@
             "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
             "category": "jewelery",
             "url": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_t.png"
+          },
+          "quantity": 1
+        }
+      ],
+      "isAdmin": true
+    },
+    {
+      "id": "aoDmOK0pdKSytEXmXIxPP",
+      "AccountType": "Business",
+      "firstname": "Aditya",
+      "middlename": "Raj",
+      "lastname": "Sinha",
+      "username": "adityaraj34",
+      "email": "adityarajsinha34@gmail.com",
+      "number": "9303351572",
+      "password": "aditya123",
+      "url": "https://images.unsplash.com/photo-1453396450673-3fe83d2db2c4?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "cart": [
+        {
+          "product": {
+            "id": "O5nHOQoIBWMKQb38ovT10",
+            "url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTBi7duXVDwiILdbR2_eHgCV5ABp3x5aPVcAXyzYq62LRCQOn3XwlPJdiMnljqIqEDvVE-BvPNOFGpcf013FMPfkr7Hqs6cKqtK6eaSAvDUov5CuLZBd7ME1JLz",
+            "title": "Zara Shoes",
+            "price": "1500",
+            "description": "Provide comfort, best for summers , absorb sweat. Best for running."
           },
           "quantity": 1
         }
